@@ -13,7 +13,7 @@ Don't just take my word for it. Test the engine yourself!
 
 (Click Below👇)
 
-[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Open%20App-blue)](SENİN_HUGGING_FACE_LINKIN_BURAYA)
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Open%20App-blue)](https://huggingface.co/spaces/codeakdo/German-car-detect)
 
 ---
 
